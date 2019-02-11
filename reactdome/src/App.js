@@ -19,6 +19,7 @@ class App extends Component {
           >
             Learn React
           </a>
+          <div>━((*′д｀)爻(′д｀*))━!!!!</div>
         </header>
       </div>
     );
